@@ -1,0 +1,51 @@
+<!--
+.baka{
+    font-size: 30px;
+    background-color: blue;
+    color: azure;
+}
+.travel_mainDiv{
+  border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+  width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+  margin: 20px;
+}
+body{
+  background: linear-gradient(#FF0000, #000000, #FFFFFF);
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+.book
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.achievement1
+{
+  text-align: center;
+}
+.achievement2
+{
+  text-align: center;
+}
